@@ -1,0 +1,26 @@
+body{
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FADA7A;
+    color: #674188;
+}
+div{
+    text-align: center;
+}
+button{
+    padding-inline: 24px;
+    padding-block: 12px;
+    background-color: #674188;
+    color: #fff;
+    font-family: inherit;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 16px;
+    border: none;
+}
+img{
+    width: 380px;
+    border-radius: 16px;
+}
